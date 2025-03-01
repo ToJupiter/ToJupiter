@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Phan Hoàng Hải, an undergraduate student at Hanoi University of Science and Technology. 👋
 
 
 # 💻 Mostly Machine Learning and Data Science :D:
