@@ -13,6 +13,4 @@
 # 😁 Check out my other profiles here:
 - HuggingFace: [Hai on HuggingFace](https://huggingface.co/haiFrHust)
 
----
-[![](https://visitcount.itsvg.in/api?id=ToJupiter&icon=0&color=0)](https://visitcount.itsvg.in)
 
